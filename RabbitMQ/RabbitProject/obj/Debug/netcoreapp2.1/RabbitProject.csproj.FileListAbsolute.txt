@@ -1,0 +1,11 @@
+C:\Users\OCETINTAS\source\repos\RabbitMQ\RabbitProject\bin\Debug\netcoreapp2.1\RabbitProject.deps.json
+C:\Users\OCETINTAS\source\repos\RabbitMQ\RabbitProject\bin\Debug\netcoreapp2.1\RabbitProject.runtimeconfig.json
+C:\Users\OCETINTAS\source\repos\RabbitMQ\RabbitProject\bin\Debug\netcoreapp2.1\RabbitProject.runtimeconfig.dev.json
+C:\Users\OCETINTAS\source\repos\RabbitMQ\RabbitProject\bin\Debug\netcoreapp2.1\RabbitProject.dll
+C:\Users\OCETINTAS\source\repos\RabbitMQ\RabbitProject\obj\Debug\netcoreapp2.1\RabbitProject.csprojAssemblyReference.cache
+C:\Users\OCETINTAS\source\repos\RabbitMQ\RabbitProject\obj\Debug\netcoreapp2.1\RabbitProject.csproj.CoreCompileInputs.cache
+C:\Users\OCETINTAS\source\repos\RabbitMQ\RabbitProject\obj\Debug\netcoreapp2.1\RabbitProject.AssemblyInfoInputs.cache
+C:\Users\OCETINTAS\source\repos\RabbitMQ\RabbitProject\obj\Debug\netcoreapp2.1\RabbitProject.AssemblyInfo.cs
+C:\Users\OCETINTAS\source\repos\RabbitMQ\RabbitProject\bin\Debug\netcoreapp2.1\RabbitProject.pdb
+C:\Users\OCETINTAS\source\repos\RabbitMQ\RabbitProject\obj\Debug\netcoreapp2.1\RabbitProject.dll
+C:\Users\OCETINTAS\source\repos\RabbitMQ\RabbitProject\obj\Debug\netcoreapp2.1\RabbitProject.pdb
