@@ -10,7 +10,7 @@ namespace RabbitProject
 
         static void Main(string[] args)
         {
-            //_publisher = new Publisher(_queueName, "Hello RabbitMQ World!");
+            _publisher = new Publisher(_queueName, "Hello RabbitMQ World!");
             _consumer = new Consumer(_queueName);
             Console.ReadKey();
         }
